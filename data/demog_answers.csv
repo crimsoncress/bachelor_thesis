@@ -1,0 +1,52 @@
+"company_id","name","question","answer","timestamp"
+19,"user1","What is your gender?","female",1612793367
+19,"user1","How old are you?","2635",1612793371
+19,"user1","Do you work in an office or at home?","office",1612793376
+19,"user2","What is your gender?","male",1612794142
+19,"user2","How old are you?","3645",1612794145
+19,"user2","Do you work in an office or at home?","office",1612794156
+19,"user3","What is your gender?","male",1612794450
+19,"user3","How old are you?","2635",1612794453
+19,"user3","Do you work in an office or at home?","office",1612794457
+19,"user4","What is your gender?","female",1612796006
+19,"user4","How old are you?","1825",1612796010
+19,"user4","Do you work in an office or at home?","office",1612796013
+19,"user5","What is your gender?","male",1612796082
+19,"user5","How old are you?","2635",1612796084
+19,"user5","Do you work in an office or at home?","home",1612796087
+19,"user6","What is your gender?","female",1612800829
+19,"user6","How old are you?","2635",1612800832
+19,"user6","Do you work in an office or at home?","office",1612800836
+19,"user7","What is your gender?","female",1612859600
+19,"user7","How old are you?","1825",1612859609
+19,"user7","Do you work in an office or at home?","home",1612859621
+19,"user8","What is your gender?","male",1612868023
+19,"user8","How old are you?","2635",1612868044
+19,"user8","Do you work in an office or at home?","office",1612868074
+19,"user9","What is your gender?","female",1612869666
+19,"user9","How old are you?","1825",1612869670
+19,"user9","Do you work in an office or at home?","office",1612869673
+19,"user10","What is your gender?","male",1612947717
+19,"user10","How old are you?","2635",1612947721
+19,"user10","Do you work in an office or at home?","office",1612947724
+19,"user11","What is your gender?","female",1612957145
+19,"user11","How old are you?","1825",1612957148
+19,"user11","Do you work in an office or at home?","home",1612957152
+19,"user12","What is your gender?","female",1612965821
+19,"user12","How old are you?","3645",1612965824
+19,"user12","Do you work in an office or at home?","office",1612965828
+19,"user13","What is your gender?","male",1613040006
+19,"user13","How old are you?","3645",1613040010
+19,"user13","Do you work in an office or at home?","office",1613040013
+19,"user14","What is your gender?","male",1613030808
+19,"user14","How old are you?","2635",1613040509
+19,"user14","Do you work in an office or at home?","office",1613040512
+19,"user15","What is your gender?","female",1613072660
+19,"user15","How old are you?","3645",1613072676
+19,"user15","Do you work in an office or at home?","office",1613072685
+19,"user16","What is your gender?","female",1613117526
+19,"user16","How old are you?","2635",1613117530
+19,"user16","Do you work in an office or at home?","home",1613117534
+19,"user17","What is your gender?","female",1613133140
+19,"user17","How old are you?","1825",1613133168
+19,"user17","Do you work in an office or at home?","office",1613133174
